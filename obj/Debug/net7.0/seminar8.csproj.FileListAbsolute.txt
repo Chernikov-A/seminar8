@@ -1,0 +1,15 @@
+D:\C# ДЗ\seminar8\bin\Debug\net7.0\seminar8.exe
+D:\C# ДЗ\seminar8\bin\Debug\net7.0\seminar8.deps.json
+D:\C# ДЗ\seminar8\bin\Debug\net7.0\seminar8.runtimeconfig.json
+D:\C# ДЗ\seminar8\bin\Debug\net7.0\seminar8.dll
+D:\C# ДЗ\seminar8\bin\Debug\net7.0\seminar8.pdb
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.csproj.AssemblyReference.cache
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.AssemblyInfoInputs.cache
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.AssemblyInfo.cs
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.csproj.CoreCompileInputs.cache
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.dll
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\refint\seminar8.dll
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.pdb
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\seminar8.genruntimeconfig.cache
+D:\C# ДЗ\seminar8\obj\Debug\net7.0\ref\seminar8.dll
